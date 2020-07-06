@@ -1,0 +1,54 @@
+/* div {
+  width: 10px;
+  height: 10px;
+} */
+
+.one {
+  color: #1100ff;
+}
+
+.two {
+  color: #0d7d0b;
+}
+
+.three {
+  color: #fe0806;
+}
+
+.four {
+  color: #04007b;
+}
+
+.five {
+  color: #7b0000;
+}
+
+.six {
+  color: #007b7b;
+}
+
+.seven {
+  color: #030303;
+}
+
+.eight {
+  color: #7c7c7c;
+}
+
+.flag {
+  color: #ff0000;
+}
+
+.box {
+  border: outset;
+  width: 25px;
+  height: 25px;
+  background-color: #bdbdbd;
+}
+
+.unbox {
+  border: #838383 solid 1px;
+  width: 25px;
+  height: 25px;
+  background-color: #bdbdbd;
+}

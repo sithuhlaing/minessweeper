@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Digital7;
+  src: url(fonts/digital-7.ttf);
+}
+
+@font-face {
+  font-family: MineSweeper;
+  src: url(fonts/mine-sweeper.ttf);
+}
+
+ /* fonts/BebasNeue-webfont.woff */
+div {
+  font-family: MineSweeper;
+  font-size: 1em;
+}

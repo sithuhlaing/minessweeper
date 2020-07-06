@@ -1,0 +1,13 @@
+.App {
+  margin: auto 0;
+  text-align: center;
+  display: flex; 
+  flex-direction: column;
+}
+
+.container {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  align-self: center;
+  justify-content: space-between;
+}
